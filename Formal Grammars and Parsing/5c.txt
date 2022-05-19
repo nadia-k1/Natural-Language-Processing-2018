@@ -1,0 +1,128 @@
+Original sentence: List me the seats on the flight to Denver
+(S
+  (IVP
+    (IVerb List)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal
+          (Nominal (Noun seats))
+          (PP
+            (Preposition on)
+            (NP (Det the) (Nominal (Noun flight)))))
+        (PP (Preposition to) (NP (Proper-Noun Denver)))))))
+(S
+  (IVP
+    (IVerb List)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal (Noun seats))
+        (PP
+          (Preposition on)
+          (NP
+            (NP (Det the) (Nominal (Noun flight)))
+            (PP (Preposition to) (NP (Proper-Noun Denver)))))))))
+(S
+  (IVP
+    (IVerb List)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal (Noun seats))
+        (PP
+          (Preposition on)
+          (NP
+            (Det the)
+            (Nominal
+              (Nominal (Noun flight))
+              (PP (Preposition to) (NP (Proper-Noun Denver))))))))))
+(S
+  (IVP
+    (IVerb List)
+    (NP (Pronoun me))
+    (NP
+      (NP
+        (NP (Det the) (Nominal (Noun seats)))
+        (PP (Preposition on) (NP (Det the) (Nominal (Noun flight)))))
+      (PP (Preposition to) (NP (Proper-Noun Denver))))))
+(S
+  (IVP
+    (IVerb List)
+    (NP (Pronoun me))
+    (NP
+      (NP
+        (Det the)
+        (Nominal
+          (Nominal (Noun seats))
+          (PP
+            (Preposition on)
+            (NP (Det the) (Nominal (Noun flight))))))
+      (PP (Preposition to) (NP (Proper-Noun Denver))))))
+(S
+  (IVP
+    (IVerb List)
+    (NP (Pronoun me))
+    (NP
+      (NP (Det the) (Nominal (Noun seats)))
+      (PP
+        (Preposition on)
+        (NP
+          (NP (Det the) (Nominal (Noun flight)))
+          (PP (Preposition to) (NP (Proper-Noun Denver))))))))
+(S
+  (IVP
+    (IVerb List)
+    (NP (Pronoun me))
+    (NP
+      (NP (Det the) (Nominal (Noun seats)))
+      (PP
+        (Preposition on)
+        (NP
+          (Det the)
+          (Nominal
+            (Nominal (Noun flight))
+            (PP (Preposition to) (NP (Proper-Noun Denver)))))))))
+(S
+  (IVP
+    (IVerb List)
+    (NP (Pronoun me))
+    (NP
+      (NP (Det the) (Nominal (Noun seats)))
+      (PP (Preposition on) (NP (Det the) (Nominal (Noun flight)))))
+    (PP (Preposition to) (NP (Proper-Noun Denver)))))
+(S
+  (IVP
+    (IVerb List)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal (Noun seats))
+        (PP (Preposition on) (NP (Det the) (Nominal (Noun flight))))))
+    (PP (Preposition to) (NP (Proper-Noun Denver)))))
+(S
+  (IVP
+    (IVerb List)
+    (NP (Pronoun me))
+    (NP (Det the) (Nominal (Noun seats)))
+    (PP
+      (Preposition on)
+      (NP
+        (NP (Det the) (Nominal (Noun flight)))
+        (PP (Preposition to) (NP (Proper-Noun Denver)))))))
+(S
+  (IVP
+    (IVerb List)
+    (NP (Pronoun me))
+    (NP (Det the) (Nominal (Noun seats)))
+    (PP
+      (Preposition on)
+      (NP
+        (Det the)
+        (Nominal
+          (Nominal (Noun flight))
+          (PP (Preposition to) (NP (Proper-Noun Denver))))))))

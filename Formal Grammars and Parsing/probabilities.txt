@@ -1,0 +1,146 @@
+done loading data
+
+
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP (Det the) (Nominal (Noun meals)))
+    (PP
+      (Preposition on)
+      (NP
+        (Det the)
+        (Nominal
+          (Nominal (Noun flight))
+          (PP
+            (Preposition from)
+            (NP (Proper_Noun Phoenix)))))))) (p=2.19769e-08)
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal (Noun meals))
+        (PP
+          (Preposition on)
+          (NP (Det the) (Nominal (Noun flight))))))
+    (PP (Preposition from) (NP (Proper_Noun Phoenix))))) (p=2.19769e-08)
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (NP (Det the) (Nominal (Noun meals)))
+      (PP
+        (Preposition on)
+        (NP (Det the) (Nominal (Noun flight)))))
+    (PP (Preposition from) (NP (Proper_Noun Phoenix))))) (p=1.35593e-08)
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP (Det the) (Nominal (Noun meals)))
+    (PP
+      (Preposition on)
+      (NP
+        (NP (Det the) (Nominal (Noun flight)))
+        (PP (Preposition from) (NP (Proper_Noun Phoenix))))))) (p=1.35593e-08)
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal
+          (Nominal (Noun meals))
+          (PP
+            (Preposition on)
+            (NP (Det the) (Nominal (Noun flight)))))
+        (PP (Preposition from) (NP (Proper_Noun Phoenix))))))) (p=1.27615e-08)
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal (Noun meals))
+        (PP
+          (Preposition on)
+          (NP
+            (Det the)
+            (Nominal
+              (Nominal (Noun flight))
+              (PP
+                (Preposition from)
+                (NP (Proper_Noun Phoenix)))))))))) (p=1.27615e-08)
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (Det the)
+      (Nominal
+        (Nominal (Noun meals))
+        (PP
+          (Preposition on)
+          (NP
+            (NP (Det the) (Nominal (Noun flight)))
+            (PP
+              (Preposition from)
+              (NP (Proper_Noun Phoenix))))))))) (p=7.8736e-09)
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (NP (Det the) (Nominal (Noun meals)))
+      (PP
+        (Preposition on)
+        (NP
+          (Det the)
+          (Nominal
+            (Nominal (Noun flight))
+            (PP
+              (Preposition from)
+              (NP (Proper_Noun Phoenix))))))))) (p=7.8736e-09)
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (NP
+        (Det the)
+        (Nominal
+          (Nominal (Noun meals))
+          (PP
+            (Preposition on)
+            (NP (Det the) (Nominal (Noun flight))))))
+      (PP (Preposition from) (NP (Proper_Noun Phoenix)))))) (p=7.8736e-09)
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (NP
+        (NP (Det the) (Nominal (Noun meals)))
+        (PP
+          (Preposition on)
+          (NP (Det the) (Nominal (Noun flight)))))
+      (PP (Preposition from) (NP (Proper_Noun Phoenix)))))) (p=4.85785e-09)
+(S
+  (IVP
+    (IVerb show)
+    (NP (Pronoun me))
+    (NP
+      (NP (Det the) (Nominal (Noun meals)))
+      (PP
+        (Preposition on)
+        (NP
+          (NP (Det the) (Nominal (Noun flight)))
+          (PP
+            (Preposition from)
+            (NP (Proper_Noun Phoenix)))))))) (p=4.85785e-09)
